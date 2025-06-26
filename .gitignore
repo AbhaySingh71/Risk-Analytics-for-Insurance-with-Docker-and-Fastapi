@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.pyd
+.env
+myenv
+.DS_Store
+*.egg-info/
+dist/
+build/
+docker-compose.override.yml
