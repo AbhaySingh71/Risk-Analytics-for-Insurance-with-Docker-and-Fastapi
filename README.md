@@ -36,7 +36,7 @@
 <pre><code>
 ├── app.py               # FastAPI application
 ├── frontend.py          # Streamlit UI
-├── model/               # Pretrained model + loading logic
+├── model/               # Random Forest model + loading logic
 │   └── model.pkl
 ├── config/              # Configs for API behavior
 ├── schema/              # Pydantic data validation schemas
