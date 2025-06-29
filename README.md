@@ -1,5 +1,4 @@
 <h1> Risk Analytics for Insurance — FastAPI, Docker & AWS Deployment</h1>
-<span class="badge">FastAPI-Insurance_Analytics</span>
 
 <p>
   A full-stack <strong>API-first project</strong> that demonstrates how to build and deploy a
